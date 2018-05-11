@@ -106,3 +106,11 @@ venv.bak/
 # IDEA
 .idea/
 .vscode/
+
+# trained momdel
+*.data-00000-of-00001
+*.index
+*.meta
+checkpoint
+log/
+screenshot/
